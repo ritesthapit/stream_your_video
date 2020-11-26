@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my first stream.",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Here is the second stream",
+      "id": 2
+    },
+    {
+      "title": "My First Stream",
+      "description": "This is my first stream",
+      "id": 3
+    },
+    {
+      "title": "My First Stream",
+      "description": "This is my first stream",
+      "id": 4
+    },
+    {
+      "title": "Hi",
+      "description": "Hi there!!!",
+      "id": 5
+    },
+    {
+      "title": "I created this",
+      "description": "I have created this new stream",
+      "id": 6
+    },
+    {
+      "title": "Created To delete",
+      "description": "Delete it",
+      "userId": "PUT USER ID",
+      "id": 7
+    }
+  ]
+}
